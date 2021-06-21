@@ -1,0 +1,17 @@
+kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: node-exporter-pvc-proc
+  namespace: monitoring
+  labels:
+    apps: node-exporter
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 15Gi
+  storageClassName: node-exporter-proc
+  selector:
+    matchLabels:
+      name: node-exporter-hostpath-proc
