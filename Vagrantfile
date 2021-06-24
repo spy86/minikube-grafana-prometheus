@@ -31,7 +31,7 @@ sudo kubectl apply -f /vagrant/files/node-exporter/node-exporter-pv-sys.yaml
 sudo kubectl apply -f /vagrant/files/node-exporter/node-exporter-daemonset.yaml
 sudo kubectl apply -f /vagrant/files/node-exporter/node-exporter-service.yaml
 
-echo "Apply configuration for kube-state-metrics-rbac"
+echo "Apply configuration for kube-state-metrics"
 sudo kubectl apply -f /vagrant/files/kube-state-metrics/kube-state-metrics-rbac.yaml
 sudo kubectl apply -f /vagrant/files/kube-state-metrics/kube-state-metrics-service.yaml
 sudo kubectl apply -f /vagrant/files/kube-state-metrics/kube-state-metrics-deployment.yaml
