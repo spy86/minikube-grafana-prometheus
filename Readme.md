@@ -1,5 +1,5 @@
 # Vagrantbox Minikube/Grafana/Prometheus
-
+![GitHub issues](https://img.shields.io/github/issues/spy86/minikube-grafana-prometheus) ![GitHub forks](https://img.shields.io/github/forks/spy86/minikube-grafana-prometheus) ![GitHub stars](https://img.shields.io/github/stars/spy86/minikube-grafana-prometheus) ![GitHub](https://img.shields.io/github/license/spy86/minikube-grafana-prometheus) 
 
 
 ## Prerequisites
