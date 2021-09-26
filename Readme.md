@@ -1,6 +1,6 @@
 # Vagrantbox Minikube/Grafana/Prometheus
-![GitHub issues](https://img.shields.io/github/issues/spy86/minikube-grafana-prometheus) ![GitHub forks](https://img.shields.io/github/forks/spy86/minikube-grafana-prometheus) ![GitHub stars](https://img.shields.io/github/stars/spy86/minikube-grafana-prometheus) ![GitHub](https://img.shields.io/github/license/spy86/minikube-grafana-prometheus) 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Prerequisites
 * Vagrant - https://www.vagrantup.com/downloads
